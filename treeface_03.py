@@ -1,5 +1,4 @@
 # Tree Fractal Program with GUI
-# Global variable FTW D:
 
 from tkinter import *
 import numpy as np
